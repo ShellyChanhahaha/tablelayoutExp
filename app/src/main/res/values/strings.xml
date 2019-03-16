@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tablelayoutExp</string>
+    <string name="open">Open</string>
+    <string name="Ctrlo">Ctrl+O</string>
+    <string name="save">Save</string>
+    <string name="ctrls">Ctrl+S</string>
+    <string name="saveas">Save As</string>
+    <string name="ctrlshifts">Ctrl+Shift+S</string>
+    <string name="Import">Import</string>
+    <string name="export">Export</string>
+    <string name="ctrle">Ctrl+E</string>
+    <string name="quit">Quit</string>
+</resources>
